@@ -1,5 +1,5 @@
 # hello-world
-estoy aprendiendo a usar github con un tutorial de la mismia pagina
+estoy aprendiendo a usar 
 
 entiendo como hacer las cosas pero hay veces que no comprendo el idioma y me  eso no me ayuda
 
